@@ -1,13 +1,13 @@
 <annotation>
-	<folder>OCR</folder>
-	<filename>cmnd.jpg</filename>
-	<path>C:/Users/thehi/Desktop/OCR/cmnd.jpg</path>
+	<folder>identity-card</folder>
+	<filename>training.jpg</filename>
+	<path>C:/Users/thehi/Desktop/OCR/services/identity-card/training.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>370</width>
-		<height>251</height>
+		<width>871</width>
+		<height>569</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>155</xmin>
-			<ymin>93</ymin>
-			<xmax>345</xmax>
-			<ymax>112</ymax>
+			<xmin>365</xmin>
+			<ymin>198</ymin>
+			<xmax>829</xmax>
+			<ymax>243</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>131</xmin>
-			<ymin>111</ymin>
-			<xmax>345</xmax>
-			<ymax>132</ymax>
+			<xmin>281</xmin>
+			<ymin>249</ymin>
+			<xmax>829</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>130</ymin>
-			<xmax>346</xmax>
-			<ymax>152</ymax>
+			<xmin>498</xmin>
+			<ymin>307</ymin>
+			<xmax>671</xmax>
+			<ymax>344</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>225</xmin>
-			<ymin>189</ymin>
-			<xmax>348</xmax>
-			<ymax>208</ymax>
+			<xmin>544</xmin>
+			<ymin>454</ymin>
+			<xmax>839</xmax>
+			<ymax>498</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>124</xmin>
-			<ymin>209</ymin>
-			<xmax>345</xmax>
-			<ymax>227</ymax>
+			<xmin>280</xmin>
+			<ymin>500</ymin>
+			<xmax>842</xmax>
+			<ymax>546</ymax>
 		</bndbox>
 	</object>
 </annotation>
