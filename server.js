@@ -53,6 +53,13 @@ router.post('/upload', async function (req, res) {
         data.error = true
         data.message = err;
       });
+    } else if (fields.type === 'CAN_CUOC'){
+      await ocrService.canCuocHandler.getData(imgPath).then((rs) => {
+        data.text = rs
+      }).catch((err) => {
+        data.error = true
+        data.message = err;
+      });
     }
 
     res.end(JSON.stringify(data));

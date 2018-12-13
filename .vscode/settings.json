@@ -1,0 +1,9 @@
+{
+    "typescript.check.npmIsInstalled": false,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "mssql.intelliSense.enableErrorChecking": false,
+    "mssql.intelliSense.enableIntelliSense": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "update.channel": "none"
+}
